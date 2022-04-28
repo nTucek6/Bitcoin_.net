@@ -1,0 +1,14 @@
+C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe.config
+C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe
+C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.pdb
+C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\obj\Debug\WindowsServiceBitcoinToDatabase.csprojAssemblyReference.cache
+C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\obj\Debug\WindowsServiceBitcoinToDatabase.ProjectInstaller.resources
+C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\obj\Debug\WindowsServiceBitcoinToDatabase.csproj.GenerateResource.cache
+C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\obj\Debug\WindowsServiceBitcoinToDatabase.csproj.CoreCompileInputs.cache
+C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\obj\Debug\WindowsServiceBitcoinToDatabase.exe
+C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\obj\Debug\WindowsServiceBitcoinToDatabase.pdb
+C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\BitcoinLibrary.dll
+C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\BitcoinLibrary.pdb
+C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\obj\Debug\WindowsServiceBitcoinToDatabase.csproj.CopyComplete

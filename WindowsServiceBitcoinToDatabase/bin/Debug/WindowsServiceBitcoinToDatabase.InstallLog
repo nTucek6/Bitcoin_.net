@@ -1,0 +1,570 @@
+﻿Installing assembly 'C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.InstallLog
+   assemblypath = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe
+   logtoconsole = 
+Installing service ServiceBitcoinToDatabase...
+Service ServiceBitcoinToDatabase has been successfully installed.
+Creating EventLog source ServiceBitcoinToDatabase in log Application...
+Committing assembly 'C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.InstallLog
+   assemblypath = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.InstallLog
+   assemblypath = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe
+Removing EventLog source ServiceBitcoinToDatabase.
+Service ServiceBitcoinToDatabase is being removed from the system...
+Service ServiceBitcoinToDatabase was successfully removed from the system.
+Installing assembly 'C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.InstallLog
+   assemblypath = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe
+   logtoconsole = 
+Installing service ServiceBitcoinToDatabase...
+Service ServiceBitcoinToDatabase has been successfully installed.
+Creating EventLog source ServiceBitcoinToDatabase in log Application...
+Committing assembly 'C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.InstallLog
+   assemblypath = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.InstallLog
+   assemblypath = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe
+Removing EventLog source ServiceBitcoinToDatabase.
+Service ServiceBitcoinToDatabase is being removed from the system...
+Service ServiceBitcoinToDatabase was successfully removed from the system.
+Installing assembly 'C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.InstallLog
+   assemblypath = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe
+   logtoconsole = 
+Installing service ServiceBitcoinToDatabase...
+Service ServiceBitcoinToDatabase has been successfully installed.
+Creating EventLog source ServiceBitcoinToDatabase in log Application...
+Committing assembly 'C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.InstallLog
+   assemblypath = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.InstallLog
+   assemblypath = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe
+Removing EventLog source ServiceBitcoinToDatabase.
+Service ServiceBitcoinToDatabase is being removed from the system...
+Service ServiceBitcoinToDatabase was successfully removed from the system.
+Attempt to stop service ServiceBitcoinToDatabase.
+Installing assembly 'C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.InstallLog
+   assemblypath = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe
+   logtoconsole = 
+Installing service ServiceBitcoinToDatabase...
+Service ServiceBitcoinToDatabase has been successfully installed.
+Creating EventLog source ServiceBitcoinToDatabase in log Application...
+Committing assembly 'C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.InstallLog
+   assemblypath = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.InstallLog
+   assemblypath = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe
+Removing EventLog source ServiceBitcoinToDatabase.
+Service ServiceBitcoinToDatabase is being removed from the system...
+Service ServiceBitcoinToDatabase was successfully removed from the system.
+Installing assembly 'C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.InstallLog
+   assemblypath = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe
+   logtoconsole = 
+Installing service ServiceBitcoinToDatabase...
+Service ServiceBitcoinToDatabase has been successfully installed.
+Creating EventLog source ServiceBitcoinToDatabase in log Application...
+Committing assembly 'C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.InstallLog
+   assemblypath = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.InstallLog
+   assemblypath = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe
+Removing EventLog source ServiceBitcoinToDatabase.
+Service ServiceBitcoinToDatabase is being removed from the system...
+Service ServiceBitcoinToDatabase was successfully removed from the system.
+Attempt to stop service ServiceBitcoinToDatabase.
+Installing assembly 'C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.InstallLog
+   assemblypath = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe
+   logtoconsole = 
+Installing service ServiceBitcoinToDatabase...
+Service ServiceBitcoinToDatabase has been successfully installed.
+Creating EventLog source ServiceBitcoinToDatabase in log Application...
+Committing assembly 'C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.InstallLog
+   assemblypath = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.InstallLog
+   assemblypath = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe
+Removing EventLog source ServiceBitcoinToDatabase.
+Service ServiceBitcoinToDatabase is being removed from the system...
+Service ServiceBitcoinToDatabase was successfully removed from the system.
+Installing assembly 'C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.InstallLog
+   assemblypath = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe
+   logtoconsole = 
+Installing service ServiceBitcoinToDatabase...
+Service ServiceBitcoinToDatabase has been successfully installed.
+Creating EventLog source ServiceBitcoinToDatabase in log Application...
+Committing assembly 'C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.InstallLog
+   assemblypath = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.InstallLog
+   assemblypath = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe
+Removing EventLog source ServiceBitcoinToDatabase.
+Service ServiceBitcoinToDatabase is being removed from the system...
+Service ServiceBitcoinToDatabase was successfully removed from the system.
+Installing assembly 'C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.InstallLog
+   assemblypath = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe
+   logtoconsole = 
+Installing service ServiceBitcoinToDatabase...
+Service ServiceBitcoinToDatabase has been successfully installed.
+Creating EventLog source ServiceBitcoinToDatabase in log Application...
+Committing assembly 'C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.InstallLog
+   assemblypath = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.InstallLog
+   assemblypath = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe
+Removing EventLog source ServiceBitcoinToDatabase.
+Service ServiceBitcoinToDatabase is being removed from the system...
+Service ServiceBitcoinToDatabase was successfully removed from the system.
+Installing assembly 'C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.InstallLog
+   assemblypath = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe
+   logtoconsole = 
+Installing service ServiceBitcoinToDatabase...
+Service ServiceBitcoinToDatabase has been successfully installed.
+Creating EventLog source ServiceBitcoinToDatabase in log Application...
+Committing assembly 'C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.InstallLog
+   assemblypath = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.InstallLog
+   assemblypath = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe
+Removing EventLog source ServiceBitcoinToDatabase.
+Service ServiceBitcoinToDatabase is being removed from the system...
+Service ServiceBitcoinToDatabase was successfully removed from the system.
+Installing assembly 'C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.InstallLog
+   assemblypath = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe
+   logtoconsole = 
+Installing service ServiceBitcoinToDatabase...
+Service ServiceBitcoinToDatabase has been successfully installed.
+Creating EventLog source ServiceBitcoinToDatabase in log Application...
+Committing assembly 'C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.InstallLog
+   assemblypath = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.InstallLog
+   assemblypath = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe
+Removing EventLog source ServiceBitcoinToDatabase.
+Service ServiceBitcoinToDatabase is being removed from the system...
+Service ServiceBitcoinToDatabase was successfully removed from the system.
+Installing assembly 'C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.InstallLog
+   assemblypath = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe
+   logtoconsole = 
+Installing service ServiceBitcoinToDatabase...
+Service ServiceBitcoinToDatabase has been successfully installed.
+Creating EventLog source ServiceBitcoinToDatabase in log Application...
+Committing assembly 'C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.InstallLog
+   assemblypath = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.InstallLog
+   assemblypath = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe
+Removing EventLog source ServiceBitcoinToDatabase.
+Service ServiceBitcoinToDatabase is being removed from the system...
+Service ServiceBitcoinToDatabase was successfully removed from the system.
+Installing assembly 'C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.InstallLog
+   assemblypath = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe
+   logtoconsole = 
+Installing service ServiceBitcoinToDatabase...
+Service ServiceBitcoinToDatabase has been successfully installed.
+Creating EventLog source ServiceBitcoinToDatabase in log Application...
+Committing assembly 'C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.InstallLog
+   assemblypath = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.InstallLog
+   assemblypath = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe
+Removing EventLog source ServiceBitcoinToDatabase.
+Service ServiceBitcoinToDatabase is being removed from the system...
+Service ServiceBitcoinToDatabase was successfully removed from the system.
+Attempt to stop service ServiceBitcoinToDatabase.
+Installing assembly 'C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.InstallLog
+   assemblypath = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe
+   logtoconsole = 
+Installing service ServiceBitcoinToDatabase...
+Service ServiceBitcoinToDatabase has been successfully installed.
+Creating EventLog source ServiceBitcoinToDatabase in log Application...
+Committing assembly 'C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.InstallLog
+   assemblypath = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.InstallLog
+   assemblypath = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe
+Removing EventLog source ServiceBitcoinToDatabase.
+Service ServiceBitcoinToDatabase is being removed from the system...
+Service ServiceBitcoinToDatabase was successfully removed from the system.
+Installing assembly 'C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.InstallLog
+   assemblypath = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe
+   logtoconsole = 
+Installing service ServiceBitcoinToDatabase...
+Service ServiceBitcoinToDatabase has been successfully installed.
+Creating EventLog source ServiceBitcoinToDatabase in log Application...
+Committing assembly 'C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.InstallLog
+   assemblypath = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.InstallLog
+   assemblypath = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe
+Removing EventLog source ServiceBitcoinToDatabase.
+Service ServiceBitcoinToDatabase is being removed from the system...
+Service ServiceBitcoinToDatabase was successfully removed from the system.
+Installing assembly 'C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.InstallLog
+   assemblypath = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe
+   logtoconsole = 
+Installing service ServiceBitcoinToDatabase...
+Service ServiceBitcoinToDatabase has been successfully installed.
+Creating EventLog source ServiceBitcoinToDatabase in log Application...
+Committing assembly 'C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.InstallLog
+   assemblypath = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.InstallLog
+   assemblypath = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe
+Removing EventLog source ServiceBitcoinToDatabase.
+Service ServiceBitcoinToDatabase is being removed from the system...
+Service ServiceBitcoinToDatabase was successfully removed from the system.
+Installing assembly 'C:\Users\Nikola\Desktop\Projekti\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Nikola\Desktop\Projekti\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.InstallLog
+   assemblypath = C:\Users\Nikola\Desktop\Projekti\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe
+   logtoconsole = 
+Installing service ServiceBitcoinToDatabase...
+Service ServiceBitcoinToDatabase has been successfully installed.
+Creating EventLog source ServiceBitcoinToDatabase in log Application...
+Committing assembly 'C:\Users\Nikola\Desktop\Projekti\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Nikola\Desktop\Projekti\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.InstallLog
+   assemblypath = C:\Users\Nikola\Desktop\Projekti\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe
+   logtoconsole = 
+Installing assembly 'C:\Users\Nikola\Desktop\Projekti\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Nikola\Desktop\Projekti\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.InstallLog
+   assemblypath = C:\Users\Nikola\Desktop\Projekti\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe
+   logtoconsole = 
+Installing service ServiceBitcoinToDatabase...
+Creating EventLog source ServiceBitcoinToDatabase in log Application...
+Rolling back assembly 'C:\Users\Nikola\Desktop\Projekti\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Nikola\Desktop\Projekti\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.InstallLog
+   assemblypath = C:\Users\Nikola\Desktop\Projekti\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe
+   logtoconsole = 
+Restoring event log to previous state for source ServiceBitcoinToDatabase.
+Uninstalling assembly 'C:\Users\Nikola\Desktop\Projekti\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Nikola\Desktop\Projekti\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.InstallLog
+   assemblypath = C:\Users\Nikola\Desktop\Projekti\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe
+Removing EventLog source ServiceBitcoinToDatabase.
+Service ServiceBitcoinToDatabase is being removed from the system...
+Service ServiceBitcoinToDatabase was successfully removed from the system.
+Installing assembly 'C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.InstallLog
+   assemblypath = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe
+   logtoconsole = 
+Installing service ServiceBitcoinToDatabase...
+Service ServiceBitcoinToDatabase has been successfully installed.
+Creating EventLog source ServiceBitcoinToDatabase in log Application...
+Committing assembly 'C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.InstallLog
+   assemblypath = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.InstallLog
+   assemblypath = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe
+Removing EventLog source ServiceBitcoinToDatabase.
+Service ServiceBitcoinToDatabase is being removed from the system...
+Service ServiceBitcoinToDatabase was successfully removed from the system.
+Installing assembly 'C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.InstallLog
+   assemblypath = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe
+   logtoconsole = 
+Installing service ServiceBitcoinToDatabase...
+Service ServiceBitcoinToDatabase has been successfully installed.
+Creating EventLog source ServiceBitcoinToDatabase in log Application...
+Committing assembly 'C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.InstallLog
+   assemblypath = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.InstallLog
+   assemblypath = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe
+Removing EventLog source ServiceBitcoinToDatabase.
+Service ServiceBitcoinToDatabase is being removed from the system...
+Service ServiceBitcoinToDatabase was successfully removed from the system.
+Installing assembly 'C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.InstallLog
+   assemblypath = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe
+   logtoconsole = 
+Installing service ServiceBitcoinToDatabase...
+Service ServiceBitcoinToDatabase has been successfully installed.
+Creating EventLog source ServiceBitcoinToDatabase in log Application...
+Committing assembly 'C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.InstallLog
+   assemblypath = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.InstallLog
+   assemblypath = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe
+Removing EventLog source ServiceBitcoinToDatabase.
+Service ServiceBitcoinToDatabase is being removed from the system...
+Service ServiceBitcoinToDatabase was successfully removed from the system.
+Installing assembly 'C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.InstallLog
+   assemblypath = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe
+   logtoconsole = 
+Installing service ServiceBitcoinToDatabase...
+Service ServiceBitcoinToDatabase has been successfully installed.
+Creating EventLog source ServiceBitcoinToDatabase in log Application...
+Committing assembly 'C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.InstallLog
+   assemblypath = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.InstallLog
+   assemblypath = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe
+Removing EventLog source ServiceBitcoinToDatabase.
+Service ServiceBitcoinToDatabase is being removed from the system...
+Service ServiceBitcoinToDatabase was successfully removed from the system.
+Installing assembly 'C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.InstallLog
+   assemblypath = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe
+   logtoconsole = 
+Installing service ServiceBitcoinToDatabase...
+Service ServiceBitcoinToDatabase has been successfully installed.
+Creating EventLog source ServiceBitcoinToDatabase in log Application...
+Committing assembly 'C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.InstallLog
+   assemblypath = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.InstallLog
+   assemblypath = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe
+Removing EventLog source ServiceBitcoinToDatabase.
+Service ServiceBitcoinToDatabase is being removed from the system...
+Service ServiceBitcoinToDatabase was successfully removed from the system.
+Installing assembly 'C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.InstallLog
+   assemblypath = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe
+   logtoconsole = 
+Installing service ServiceBitcoinToDatabase...
+Service ServiceBitcoinToDatabase has been successfully installed.
+Creating EventLog source ServiceBitcoinToDatabase in log Application...
+Committing assembly 'C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.InstallLog
+   assemblypath = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.InstallLog
+   assemblypath = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe
+Removing EventLog source ServiceBitcoinToDatabase.
+Service ServiceBitcoinToDatabase is being removed from the system...
+Service ServiceBitcoinToDatabase was successfully removed from the system.
+Installing assembly 'C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.InstallLog
+   assemblypath = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe
+   logtoconsole = 
+Installing service ServiceBitcoinToDatabase...
+Service ServiceBitcoinToDatabase has been successfully installed.
+Creating EventLog source ServiceBitcoinToDatabase in log Application...
+Committing assembly 'C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.InstallLog
+   assemblypath = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.InstallLog
+   assemblypath = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe
+Removing EventLog source ServiceBitcoinToDatabase.
+Service ServiceBitcoinToDatabase is being removed from the system...
+Service ServiceBitcoinToDatabase was successfully removed from the system.
+Installing assembly 'C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.InstallLog
+   assemblypath = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe
+   logtoconsole = 
+Installing service ServiceBitcoinToDatabase...
+Service ServiceBitcoinToDatabase has been successfully installed.
+Creating EventLog source ServiceBitcoinToDatabase in log Application...
+Committing assembly 'C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe'.
+Affected parameters are:
+   i = 
+   logfile = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.InstallLog
+   assemblypath = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe
+   logtoconsole = 
+Uninstalling assembly 'C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.InstallLog
+   assemblypath = C:\Users\Nikola\source\repos\Bitcoin\WindowsServiceBitcoinToDatabase\bin\Debug\WindowsServiceBitcoinToDatabase.exe
+Removing EventLog source ServiceBitcoinToDatabase.
+Service ServiceBitcoinToDatabase is being removed from the system...
+Service ServiceBitcoinToDatabase was successfully removed from the system.
