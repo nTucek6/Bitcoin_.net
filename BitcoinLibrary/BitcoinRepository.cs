@@ -26,7 +26,7 @@ namespace BitcoinLibrary
                     {
                         bitcoin.Add(new Bitcoin()
                         {
-                            Vrijednost = Convert.ToDecimal(reader["Vrijednost"]),
+                            Vrijednost = Convert.ToDecimal(reader["Vrijednost"].ToString().Replace(".",",")),
                             Datum = (DateTime)reader["Datum"],
                             Valuta = (string)reader["Valuta"],
                             Opis = (string)reader["Opis"] 
